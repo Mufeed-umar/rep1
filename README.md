@@ -1,2 +1,3 @@
 # rep1
-first git repository
+My First git repository.
+Author- Mufeed Umar
